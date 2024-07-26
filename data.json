@@ -1,0 +1,387 @@
+[
+    {
+        "name": "Shri Narendra Modi",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/narender-modi_1.jpg",
+        "ministries": "Ministry of Personnel, Public Grievances and PensionsDepartment of Atomic EnergyDepartment of Space"
+    },
+    {
+        "name": "Shri Raj Nath Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/rajnathsingh.jpg",
+        "ministries": "Ministry of Defence"
+    },
+    {
+        "name": "Shri Amit Shah",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/amit-shah.jpg",
+        "ministries": "Ministry of Home AffairsMinistry of Cooperation"
+    },
+    {
+        "name": "Shri Nitin Jairam Gadkari",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/gadkari.jpg",
+        "ministries": "Ministry of Road Transport and Highways"
+    },
+    {
+        "name": "Shri Jagat Prakash Nadda",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jagat_prakash_nadda.jpg",
+        "ministries": "Ministry of Health and Family WelfareMinistry of Chemicals and Fertilizers"
+    },
+    {
+        "name": "Shri Shivraj Singh Chouhan",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/shivraj-singh_chouhan.jpg",
+        "ministries": "Ministry of Agriculture & Farmers WelfareMinistry of Rural Development"
+    },
+    {
+        "name": "Smt. Nirmala Sitharaman",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/nirmalasitharaman.jpg",
+        "ministries": "Ministry of FinanceMinistry of Corporate Affairs"
+    },
+    {
+        "name": "Dr. Subrahmanyam Jaishankar",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/subrahmanyam.jpg",
+        "ministries": "Ministry of External Affairs"
+    },
+    {
+        "name": "Shri Manohar Lal",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/manohar_lal.jpg",
+        "ministries": "Ministry of Housing and Urban AffairsMinistry of Power"
+    },
+    {
+        "name": "Shri H. D. Kumaraswamy",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/kumaraswamy.jpg",
+        "ministries": "Ministry of Heavy IndustriesMinistry of Steel"
+    },
+    {
+        "name": "Shri Piyush Goyal",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/piyushgoyal.jpg",
+        "ministries": "Ministry of Commerce and Industry"
+    },
+    {
+        "name": "Shri Dharmendra Pradhan",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/dharmendrapradhan.jpg",
+        "ministries": "Ministry of Education"
+    },
+    {
+        "name": "Shri Jitan Ram Manjhi",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jitan_ram_manjhi.jpg",
+        "ministries": "Ministry of Micro, Small and Medium Enterprises"
+    },
+    {
+        "name": "Shri Rajiv Ranjan Singh alias Lalan Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/rajiv_ranjan_singh.jpg",
+        "ministries": "Ministry of Panchayati RajMinistry of Fisheries, Animal Husbandry and Dairying"
+    },
+    {
+        "name": "Shri Sarbananda Sonowal",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Sarbananda-Sonowal.jpg",
+        "ministries": "Ministry of Ports, Shipping and Waterways"
+    },
+    {
+        "name": "Dr. Virendra Kumar",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Virendra-Kumar_0.jpg",
+        "ministries": "Ministry of Social Justice and Empowerment"
+    },
+    {
+        "name": "Shri Kinjarapu Rammohan Naidu",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/kinjarapu_rammohan_naidu.jpg",
+        "ministries": "Ministry of Civil Aviation"
+    },
+    {
+        "name": "Shri Pralhad Joshi",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/pralhadjoshi.jpg",
+        "ministries": "Ministry of Consumer Affairs, Food and Public DistributionMinistry of New and Renewable Energy"
+    },
+    {
+        "name": "Shri Jual Oram",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jual_oram.jpg",
+        "ministries": "Ministry of Tribal Affairs"
+    },
+    {
+        "name": "Shri Giriraj Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Giriraj_Singh.jpg",
+        "ministries": "Ministry of Textiles"
+    },
+    {
+        "name": "Shri Ashwini Vaishnaw",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Ashwini-Vaishnaw.jpg",
+        "ministries": "Ministry of RailwaysMinistry of Information and BroadcastingMinistry of Electronics and Information Technology"
+    },
+    {
+        "name": "Shri Jyotiraditya M. Scindia",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Jyotiraditya-M.-Scindia.jpg",
+        "ministries": "Ministry of CommunicationsMinistry of Development of North Eastern Region"
+    },
+    {
+        "name": "Shri Bhupender Yadav",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Bhupender-Yadav.jpg",
+        "ministries": "Ministry of Environment, Forest and Climate Change"
+    },
+    {
+        "name": "Shri Gajendra Singh Shekhawat",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Gajendra-Singh-Shekhawat.jpg",
+        "ministries": "Ministry of CultureMinistry of Tourism"
+    },
+    {
+        "name": "Smt. Annpurna Devi",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Annpurna-Devi.jpg",
+        "ministries": "Ministry of Women and Child Development"
+    },
+    {
+        "name": "Shri Kiren Rijiju",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/kirenrijiju_0.jpg",
+        "ministries": "Ministry of Parliamentary AffairsMinistry of Minority Affairs"
+    },
+    {
+        "name": "Shri Hardeep Singh Puri",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Hardeep-Singh-Puri_0.jpg",
+        "ministries": "Ministry of Petroleum and Natural Gas"
+    },
+    {
+        "name": "Shri Mansukh L. Mandaviya",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Mansukh-L.-Mandaviya_0.jpg",
+        "ministries": "Ministry of Labour and EmploymentMinistry of Youth Affairs and Sports"
+    },
+    {
+        "name": "Shri G. Kishan Reddy",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/g-kishan-reddy.jpg",
+        "ministries": "Ministry of CoalMinistry of Mines"
+    },
+    {
+        "name": "Shri Chirag Paswan",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/chirag_paswan.jpg",
+        "ministries": "Ministry of Food Processing Industries"
+    },
+    {
+        "name": "Shri C R Patil",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/cr-patil.jpg",
+        "ministries": "Ministry of Jal Shakti"
+    },
+    {
+        "name": "Shri Rao Inderjit Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/raoinderjitsingh_0.jpg",
+        "ministries": "Ministry of Statistics and Programme ImplementationMinistry of Planning"
+    },
+    {
+        "name": "Dr. Jitendra Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jitendrasingh_0.jpg",
+        "ministries": "Ministry of Science and TechnologyMinistry of Earth Sciences"
+    },
+    {
+        "name": "Shri Arjun Ram Meghwal",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Arjun-Ram-Meghwal_0.jpg",
+        "ministries": "Ministry of Law and Justice"
+    },
+    {
+        "name": "Shri Jadhav Prataprao Ganpatrao",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jadhav_rataprao_ganpatrao.jpg",
+        "ministries": "Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy (AYUSH)"
+    },
+    {
+        "name": "Shri Jayant Chaudhary",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jayant_chaudhary.jpg",
+        "ministries": "Ministry of Skill Development and Entrepreneurship"
+    },
+    {
+        "name": "Shri Rao Inderjit Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/raoinderjitsingh.jpg",
+        "ministries": "Ministry of Culture"
+    },
+    {
+        "name": "Dr. Jitendra Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jitendrasingh_3.jpg",
+        "ministries": "Prime Minister's OfficeMinistry of Personnel, Public Grievances and PensionsDepartment of Atomic EnergyDepartment of Space"
+    },
+    {
+        "name": "Shri Arjun Ram Meghwal",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Arjun-Ram-Meghwal.jpg",
+        "ministries": "Ministry of Parliamentary Affairs"
+    },
+    {
+        "name": "Shri Jadhav Prataprao Ganpatrao",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jadhav_rataprao_ganpatrao_0.jpg",
+        "ministries": "Ministry of Health and Family Welfare"
+    },
+    {
+        "name": "Shri Jayant Chaudhary",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jayant_chaudhary_0.jpg",
+        "ministries": "Ministry of Education"
+    },
+    {
+        "name": "Shri Jitin Prasada",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/jitin_prasada.jpg",
+        "ministries": "Ministry of Commerce and IndustryMinistry of Electronics and Information Technology"
+    },
+    {
+        "name": "Shri Shripad Yesso Naik",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/shripadyessonaik_0.jpg",
+        "ministries": "Ministry of PowerMinistry of New and Renewable Energy"
+    },
+    {
+        "name": "Shri Pankaj Chaudhary",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Pankaj-Chaowdhary-1.jpg",
+        "ministries": "Ministry of Finance"
+    },
+    {
+        "name": "Shri Krishan Pal",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/krishanpal.jpg",
+        "ministries": "Ministry of Cooperation"
+    },
+    {
+        "name": "Shri Ramdas Athawale",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/ramdasathawale.jpg",
+        "ministries": "Ministry of Social Justice and Empowerment"
+    },
+    {
+        "name": "Shri Ram Nath Thakur",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/ram_nath_thakur.jpg",
+        "ministries": "Ministry of Agriculture & Farmers Welfare"
+    },
+    {
+        "name": "Shri Nityanand Rai",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/nityanand-rai.jpg",
+        "ministries": "Ministry of Home Affairs"
+    },
+    {
+        "name": "Smt. Anupriya Singh Patel",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Anupriya-Singh-Patel.jpg",
+        "ministries": "Ministry of Health and Family WelfareMinistry of Chemicals and Fertilizers"
+    },
+    {
+        "name": "Shri V. Somanna",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/v_somanna.jpg",
+        "ministries": "Ministry of Jal ShaktiMinistry of Railways"
+    },
+    {
+        "name": "Dr. Chandra Sekhar Pemmasani",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Chandra_sekhar_pemmasani.jpg",
+        "ministries": "Ministry of Rural DevelopmentMinistry of Communications"
+    },
+    {
+        "name": "Prof. S. P. Singh Baghel",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/S.-P.-Singh-Baghel.jpg",
+        "ministries": "Ministry of Fisheries, Animal Husbandry and DairyingMinistry of Panchayati Raj"
+    },
+    {
+        "name": "Sushri Shobha Karandlaje",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Shobha-Karandlaje.jpg",
+        "ministries": "Ministry of Micro, Small and Medium EnterprisesMinistry of Labour and Employment"
+    },
+    {
+        "name": "Shri Kirtivardhan Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/kirtivardhan_singh.jpg",
+        "ministries": "Ministry of Environment, Forest and Climate ChangeMinistry of External Affairs"
+    },
+    {
+        "name": "Shri B. L. Verma",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/B.-L.-Verma.jpg",
+        "ministries": "Ministry of Consumer Affairs, Food and Public DistributionMinistry of Social Justice and Empowerment"
+    },
+    {
+        "name": "Shri Shantanu Thakur",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/Shantanu-Thakur.jpg",
+        "ministries": "Ministry of Ports, Shipping and Waterways"
+    },
+    {
+        "name": "Shri Suresh Gopi",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/suresh_gopi.jpg",
+        "ministries": "Ministry of Petroleum and Natural GasMinistry of Tourism"
+    },
+    {
+        "name": "Dr. L. Murugan",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/L.-Murugan.jpg",
+        "ministries": "Ministry of Information and BroadcastingMinistry of Parliamentary Affairs"
+    },
+    {
+        "name": "Shri Ajay Tamta",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/ajay_tamta.jpg",
+        "ministries": "Ministry of Road Transport and Highways"
+    },
+    {
+        "name": "Shri Bandi Sanjay Kumar",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/bandi_sanjay_kumar.jpg",
+        "ministries": "Ministry of Home Affairs"
+    },
+    {
+        "name": "Shri Kamlesh Paswan",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/kamlesh_paswan.jpg",
+        "ministries": "Ministry of Rural Development"
+    },
+    {
+        "name": "Shri Bhagirath Choudhary",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/bhagirath_choudhary.jpg",
+        "ministries": "Ministry of Agriculture & Farmers Welfare"
+    },
+    {
+        "name": "Shri Satish Chandra Dubey",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/satish_chandra_dubey.jpg",
+        "ministries": "Ministry of CoalMinistry of Mines"
+    },
+    {
+        "name": "Shri Sanjay Seth",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/sanjay_seth.jpg",
+        "ministries": "Ministry of Defence"
+    },
+    {
+        "name": "Shri Ravneet Singh",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/ravneet_singh.jpg",
+        "ministries": "Ministry of Food Processing IndustriesMinistry of Railways"
+    },
+    {
+        "name": "Shri Durgadas Uikey",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/durgadas_uikey.jpg",
+        "ministries": "Ministry of Tribal Affairs"
+    },
+    {
+        "name": "Smt. Raksha Nikhil Khadse",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/raksha_nikhil_khadse.jpg",
+        "ministries": "Ministry of Youth Affairs and Sports"
+    },
+    {
+        "name": "Shri Sukanta Majumdar",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/sukanta_majumdar.jpg",
+        "ministries": "Ministry of EducationMinistry of Development of North Eastern Region"
+    },
+    {
+        "name": "Smt. Savitri Thakur",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/savitri_thakur.jpg",
+        "ministries": "Ministry of Women and Child Development"
+    },
+    {
+        "name": "Shri Tokhan Sahu",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/tokhan_sahu.jpg",
+        "ministries": "Ministry of Housing and Urban Affairs"
+    },
+    {
+        "name": "Shri Raj Bhushan Choudhary",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/raj_bhushan_choudhary.jpg",
+        "ministries": "Ministry of Jal Shakti"
+    },
+    {
+        "name": "Shri Bhupathi Raju Srinivasa Varma",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/bhupathi_raju_srinivasa_varma.jpg",
+        "ministries": "Ministry of Heavy IndustriesMinistry of Steel"
+    },
+    {
+        "name": "Shri Harsh Malhotra",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/harsh_malhotra.jpg",
+        "ministries": "Ministry of Corporate AffairsMinistry of Road Transport and Highways"
+    },
+    {
+        "name": "Smt. Nimuben Jayantibhai Bambhaniya",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/nimuben_jayantibhai_bambhaniya.jpg",
+        "ministries": "Ministry of Consumer Affairs, Food and Public Distribution"
+    },
+    {
+        "name": "Shri Murlidhar Mohol",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/murlidhar_mohol.jpg",
+        "ministries": "Ministry of CooperationMinistry of Civil Aviation"
+    },
+    {
+        "name": "Shri George Kurian",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/george_kurian.jpg",
+        "ministries": "Ministry of Minority AffairsMinistry of Fisheries, Animal Husbandry and Dairying"
+    },
+    {
+        "name": "Shri Pabitra Margherita",
+        "image_url": "https://www.india.gov.in/sites/upload_files/npi/files/pabitra_margherita.jpg",
+        "ministries": "Ministry of External AffairsMinistry of Textiles"
+    }
+]

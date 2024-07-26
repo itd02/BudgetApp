@@ -1,0 +1,8 @@
+requests
+camelot-py
+pandas
+opencv-python
+matplotlib
+seaborn
+flask
+beautifulsoup4
